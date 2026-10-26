@@ -1,0 +1,2 @@
+# XeroHardwareMonitor
+XeroHardwareMonitor is a modern, open-source hardware monitoring tool for Windows, providing real-time system telemetry, performance metrics, alerts, logging, and advanced diagnostics for enthusiasts and homelab users.
